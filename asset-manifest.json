@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/associative-dop/static/css/main.8785da40.css",
+    "main.js": "/associative-dop/static/js/main.d0ce11ed.js",
+    "index.html": "/associative-dop/index.html",
+    "main.8785da40.css.map": "/associative-dop/static/css/main.8785da40.css.map",
+    "main.d0ce11ed.js.map": "/associative-dop/static/js/main.d0ce11ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8785da40.css",
+    "static/js/main.d0ce11ed.js"
+  ]
+}
